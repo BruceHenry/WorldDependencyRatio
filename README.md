@@ -1,10 +1,11 @@
 # 2015-2100 World Population Data
 
-A visualization of world population data from 2015 to 2100.
+A visualization of world population data from 2015 to 2100 using [D3.js](https://d3js.org/).
 
-Have a look => [Click here](https://brucehenry.github.io/WorldPopulationData/) to visit.
-<br/><img src="https://gist.githubusercontent.com/BruceHenry/f9c8fdaa96182f18c5517a0d18323f40/raw/0c2763039f565f32412a994c7e437278bd687c43/thumbnail.png"/>
-<hr/>
+[Have a look!](https://brucehenry.github.io/WorldPopulationData/)
+<br/>
+[<img src="https://gist.githubusercontent.com/BruceHenry/f9c8fdaa96182f18c5517a0d18323f40/raw/0c2763039f565f32412a994c7e437278bd687c43/thumbnail.png"/>](https://brucehenry.github.io/WorldPopulationData/)
+***
 
 ## Introduction of Concept
 - [Total dependency ratio](https://en.wikipedia.org/wiki/Dependency_ratio) is a measure showing the number of dependents, aged 0 to 14 and over the age of 65, to the total population aged 15 to 64. This indicator gives insight into the amount of people of nonworking age compared to the number of those of working age.
