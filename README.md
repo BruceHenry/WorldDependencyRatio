@@ -1,10 +1,13 @@
 # 2015-2100 World Population Data
 
-A visualization of world population data from 2015 to 2100 using [D3.js](https://d3js.org/).
+A visualization of world population data from 2015 to 2100 using [D3.js](https://d3js.org/). 
 
-[Have a look!](https://brucehenry.github.io/WorldPopulationData/)
-<br/>
+Here is a video that introduces this project in details.(To be added)
+
+
 [<img src="https://gist.githubusercontent.com/BruceHenry/f9c8fdaa96182f18c5517a0d18323f40/raw/0c2763039f565f32412a994c7e437278bd687c43/thumbnail.png"/>](https://brucehenry.github.io/WorldPopulationData/)
+<br>
+[Have a look!](https://brucehenry.github.io/WorldPopulationData/)
 ***
 ## How to Use
 - __Select the Data Type__<br>
