@@ -60,7 +60,7 @@ export default function (yearValue, barSvg) {
         });
     barSvg.selectAll('title').data(data)
         .text(function (data) {
-            return yValue(data)
+            return format(yValue(data));
         });
     rects.enter().append('rect')
         .attr('class', 'year')
@@ -83,7 +83,7 @@ export default function (yearValue, barSvg) {
         .append('title')
         .attr('class', 'rect-popup')
         .text(function (data) {
-            return yValue(data)
+            return format(yValue(data));
         });
 
     const yAxis = d3.svg.axis().scale(yAxisScale).orient("right").ticks(8).innerTickSize(-1000);

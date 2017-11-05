@@ -47,12 +47,12 @@
 }
 
 .male-age-rect {
-    fill: #0073ff;
+    fill: #0053bd;
     opacity: 0.7;
 }
 
 .female-age-rect {
-    fill: #FB7F5F;
+    fill: #fb7687;
     opacity: 0.8;
 }
 
@@ -145,6 +145,12 @@
 
 .grid .domain {
     display: none;
+}
+
+#intro{
+    position: relative;
+    width: 1024px;
+    margin:auto;
 }
 
 #footer{

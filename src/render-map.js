@@ -268,7 +268,7 @@ function renderPyramid() {
         .attr('height', height)
         .append('title')
         .text(function (data) {
-            return data + 'thousand';
+            return d3.format(",.d")(data) + ',000';
         });
     const femaleRects = g.selectAll('.female-age-rect').data(country['female'][index])
         .attr('width', function (data) {
@@ -285,7 +285,7 @@ function renderPyramid() {
         .attr('height', height)
         .append('title')
         .text(function (data) {
-            return data + 'thousand';
+            return d3.format(",.d")(data) + ',000';
         });
     g.selectAll('text').data(ageGroups).enter()
         .append('text').attr('x', function (data, index) {
