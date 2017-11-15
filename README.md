@@ -1,6 +1,7 @@
 # 2015-2100 World Population Data
 
 A visualization of world population data from 2015 to 2100 using [D3.js](https://d3js.org/).
+<br>
 [<img src="https://gist.githubusercontent.com/BruceHenry/f9c8fdaa96182f18c5517a0d18323f40/raw/0c2763039f565f32412a994c7e437278bd687c43/thumbnail.png"/>](https://brucehenry.github.io/WorldPopulationData/)
 <br>
 [Have a look!](https://brucehenry.github.io/WorldPopulationData/)
